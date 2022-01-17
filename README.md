@@ -1,7 +1,7 @@
 ### Olá! Eu sou Thiago Almeida 👋
 
 - 🔭 No momento não estou trabalhando
-- 🌱 Estudando JavaScript
+- 🌱 Estudando
 - ⚙ Dicas de projetos no Front-end
 - 💡 "Toda conquista começa com a decisão de tentar"
 
