@@ -1,8 +1,8 @@
 ### Olá! Eu sou Thiago Almeida 👋
 
-- 🔭 No momento não estou trabalhando
-- 🌱 Estudando
-- ⚙ Dicas de projetos no Front-end
+- 🔭 Dev Full Stack Jr
+- 🌱 Estudando Sempre
+- ⚙ Dicas de projetos sempre bem-vindas
 - 💡 "Toda conquista começa com a decisão de tentar"
 
 ##
