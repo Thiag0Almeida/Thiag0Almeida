@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thiago Almeida 👋
 
-- 🔭 Dev Full Stack Jr
+- 🔭 Desenvolvedor PHP
 - 🌱 Estudando Sempre
 - ⚙ Dicas de projetos sempre bem-vindas
 - 💡 "Toda conquista começa com a decisão de tentar"
