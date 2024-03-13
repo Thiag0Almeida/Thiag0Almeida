@@ -1,6 +1,6 @@
 ### Olá! Eu sou Thiago Almeida 👋
 
-- 🔭 Desenvolvedor PHP
+- 🔭 Desenvolvedor
 - 🌱 Estudando Sempre
 - ⚙ Dicas de projetos sempre bem-vindas
 - 💡 "Toda conquista começa com a decisão de tentar"
