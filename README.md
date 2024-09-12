@@ -1,9 +1,17 @@
 ### Olá! Eu sou Thiago Almeida 👋
 
-- 🔭 Desenvolvedor
-- 🌱 Estudando Sempre
-- ⚙ Dicas de projetos sempre bem-vindas
+- 🔭 Desenvolvedor apaixonado por tecnologia
+- 🌱 Sempre buscando aprender e evoluir
+- ⚙ Dicas e sugestões de projetos são bem-vindas
 - 💡 "Toda conquista começa com a decisão de tentar"
+
+
+### Hello! I'm Thiago Almeida 👋
+
+- 🔭 Passionate Developer
+- 🌱 Always learning and growing
+- ⚙ Project ideas and tips are always welcome
+- 💡 "Every achievement begins with the decision to try"
 
 ##
 
